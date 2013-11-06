@@ -1,0 +1,7 @@
+name: association_members
+version: 0.0.1
+author: Dzenan Ridjanovic <dzenanr@gmail.com>
+homepage: http://ondart.me/
+dependencies:
+  dartlero:
+    git: git://github.com/dzenanr/dartlero.git
