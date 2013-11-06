@@ -2,7 +2,7 @@ import 'package:unittest/unittest.dart';
 import 'package:dartlero/dartlero.dart';
 import 'package:association_members/association_members.dart';
 
-testProjects() {
+testAssociations() {
   var model = MembershipModel.one();
   Associations associations = model.associations;
   var readingClub = 'Books with prizes';
@@ -28,6 +28,6 @@ testProjects() {
 }
 
 main() {
-  testProjects();
+  testAssociations();
 }
 

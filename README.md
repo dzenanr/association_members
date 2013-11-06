@@ -1,4 +1,3 @@
-
 # Association Members dartlero model
 
 **Categories**: education, class models, many-to-many relationships,
